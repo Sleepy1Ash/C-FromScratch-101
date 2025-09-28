@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{770176E6-CA91-4EE5-8B69-F38AEB5F7F2A}"
 EndProject
@@ -10,6 +10,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{3BCE1A11-3E90-4C2A-9A0F-293531F50694}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlowStatements", "ControlFlowStatements\ControlFlowStatements.csproj", "{B87E99EC-2C4D-4C69-B8B7-FD665D63509D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{61E238E6-FB73-478D-B5D0-B0DD1EA3953C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomExceptions", "CustomExceptions\CustomExceptions.csproj", "{A261CFB3-49AA-409B-9B07-EA5F5CB12283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{954014A1-25E7-4E81-B7B6-B71082E5BDB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{B87E99EC-2C4D-4C69-B8B7-FD665D63509D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B87E99EC-2C4D-4C69-B8B7-FD665D63509D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B87E99EC-2C4D-4C69-B8B7-FD665D63509D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E238E6-FB73-478D-B5D0-B0DD1EA3953C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E238E6-FB73-478D-B5D0-B0DD1EA3953C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E238E6-FB73-478D-B5D0-B0DD1EA3953C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E238E6-FB73-478D-B5D0-B0DD1EA3953C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A261CFB3-49AA-409B-9B07-EA5F5CB12283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A261CFB3-49AA-409B-9B07-EA5F5CB12283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A261CFB3-49AA-409B-9B07-EA5F5CB12283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A261CFB3-49AA-409B-9B07-EA5F5CB12283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954014A1-25E7-4E81-B7B6-B71082E5BDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954014A1-25E7-4E81-B7B6-B71082E5BDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954014A1-25E7-4E81-B7B6-B71082E5BDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954014A1-25E7-4E81-B7B6-B71082E5BDB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
