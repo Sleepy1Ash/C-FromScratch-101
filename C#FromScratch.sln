@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomExceptions", "CustomE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{954014A1-25E7-4E81-B7B6-B71082E5BDB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursosYEstudiantes", "CursosYEstudiantes\CursosYEstudiantes.csproj", "{C4116D91-406D-42FB-9069-D143F3384AF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{954014A1-25E7-4E81-B7B6-B71082E5BDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954014A1-25E7-4E81-B7B6-B71082E5BDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954014A1-25E7-4E81-B7B6-B71082E5BDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4116D91-406D-42FB-9069-D143F3384AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4116D91-406D-42FB-9069-D143F3384AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4116D91-406D-42FB-9069-D143F3384AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4116D91-406D-42FB-9069-D143F3384AF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
